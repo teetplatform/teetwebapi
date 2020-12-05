@@ -122,15 +122,15 @@
             },
             "0120202": {
                 "title": "চিত্রণ",
-                "content": "MCQ"
+                "content": "MCQ,SAQ"
             },
             "0120203": {
                 "title": "দ্বিপদ প্রক্রিয়া",
-                "content": "MCQ"
+                "content": "MCQ,SAQ"
             },
             "0120204": {
                 "title": "ত্রিকোণমিতিক বিপরীত বৃত্তীয় প্রক্রিয়া",
-                "content": "MCQ"
+                "content": "MCQ,SAQ"
             },
             "0120205": {
                 "title": "নির্ণায়ক",
@@ -142,11 +142,11 @@
             },
             "0120207": {
                 "title": "সীমা, সন্ততা ও অন্তরকলন যোগ্যতা",
-                "content": "MCQ"
+                "content": "MCQ,SAQ"
             },
             "0120208": {
                 "title": "প্রথম ও দ্বিতীয় ক্রমের অন্তরকলজ",
-                "content": "MCQ"
+                "content": "MCQ,SAQ"
             },
             "0120209": {
                 "title": "অনিদৃষ্ট সমাকলন",
@@ -158,47 +158,47 @@
             },
             "0120211": {
                 "title": "অবকল সমীকরণ",
-                "content": "MCQ"
+                "content": "MCQ,SAQ"
             },
             "0120212": {
                 "title": "অন্তরকলজের ব্যাখ্যা",
-                "content": "MCQ"
+                "content": "MCQ,SAQ"
             },
             "0120213": {
                 "title": "স্পর্শক ও অভিলম্ব",
-                "content": "MCQ"
+                "content": "MCQ,SAQ"
             },
             "0120214": {
                 "title": "বর্ধিষ্ণু-ক্ষয়িষ্ণু অপেক্ষক এবং চরম-অবম মান",
-                "content": "MCQ"
+                "content": "MCQ,SAQ"
             },
             "0120215": {
                 "title": "ক্ষেত্রফলরূপে নিদৃষ্ট সমাকল",
-                "content": "MCQ"
+                "content": "MCQ,SAQ"
             },
             "0120216": {
                 "title": "ভেক্টর বীজগণিত",
-                "content": "MCQ"
+                "content": "MCQ,SAQ"
             },
             "0120217": {
                 "title": "দুটি ভেক্টরের গুণ",
-                "content": "MCQ"
+                "content": "MCQ,SAQ"
             },
             "0120218": {
                 "title": "ত্রিমাত্রিক দেশে সরলরেখা",
-                "content": "MCQ"
+                "content": "MCQ,SAQ"
             },
             "0120219": {
                 "title": "সমতল",
-                "content": "MCQ"
+                "content": "MCQ,SAQ"
             },
             "0120220": {
                 "title": "সম্ভাবনা",
-                "content": "MCQ"
+                "content": "MCQ,SAQ"
             },
             "0120221": {
                 "title": "সম্ভাবনা বিভাজন ও দ্বিপদ বিভাজন",
-                "content": "MCQ"
+                "content": "MCQ,SAQ"
             }
         }
     },
